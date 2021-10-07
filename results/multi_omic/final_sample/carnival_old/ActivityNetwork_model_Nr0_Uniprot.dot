@@ -1,0 +1,344 @@
+digraph {
+
+XMetab__9750___c____->X4846 [penwidth=1, color=black, arrowhead="vee"]
+XMetab__9750___m____->X4846 [penwidth=1, color=black, arrowhead="vee"]
+XMetab__9750___e____->X4846 [penwidth=1, color=black, arrowhead="vee"]
+XMetab__784___x____->X4846 [penwidth=1, color=black, arrowhead="tee"]
+X4846->XGene3007__4846 [penwidth=1, color=black, arrowhead="vee"]
+X4830->XGene7316__4831_4830 [penwidth=1, color=black, arrowhead="vee"]
+XGene3007__4846->XMetab__145068___c____ [penwidth=1, color=black, arrowhead="vee"]
+XGene7316__4831_4830->XMetab__15993___c____ [penwidth=1, color=black, arrowhead="vee"]
+X1827->X5530 [penwidth=1, color=black, arrowhead="tee"]
+X2534->X1020 [penwidth=1, color=black, arrowhead="vee"]
+X1020->X5602 [penwidth=1, color=black, arrowhead="vee"]
+X1020->X6774 [penwidth=1, color=black, arrowhead="vee"]
+X5578->X4846 [penwidth=1, color=black, arrowhead="tee"]
+X5578->X2931 [penwidth=1, color=black, arrowhead="tee"]
+X5581->X4846 [penwidth=1, color=black, arrowhead="tee"]
+X5788->X2534 [penwidth=1, color=black, arrowhead="vee"]
+X83737->X1840 [penwidth=1, color=black, arrowhead="tee"]
+X5580->X4846 [penwidth=1, color=black, arrowhead="tee"]
+X6667->X4846 [penwidth=1, color=black, arrowhead="vee"]
+X5501->X4846 [penwidth=1, color=black, arrowhead="vee"]
+X6772->X3659 [penwidth=1, color=black, arrowhead="vee"]
+X5602->X3725 [penwidth=1, color=black, arrowhead="vee"]
+X1111->X9212 [penwidth=1, color=black, arrowhead="vee"]
+X1017->X1111 [penwidth=1, color=black, arrowhead="vee"]
+X207->X1111 [penwidth=1, color=black, arrowhead="tee"]
+X1111->X8317 [penwidth=1, color=black, arrowhead="vee"]
+X5580->X2313 [penwidth=1, color=black, arrowhead="tee"]
+X5580->X2931 [penwidth=1, color=black, arrowhead="tee"]
+X2305->X9212 [penwidth=1, color=black, arrowhead="vee"]
+X4609->X4830 [penwidth=1, color=black, arrowhead="vee"]
+X207->X10413 [penwidth=1, color=black, arrowhead="tee"]
+X9113->X10413 [penwidth=1, color=black, arrowhead="vee"]
+X1017->X4609 [penwidth=1, color=black, arrowhead="vee"]
+X6772->X4609 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X4609 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X4609 [penwidth=1, color=black, arrowhead="vee"]
+X3065->X2313 [penwidth=1, color=black, arrowhead="vee"]
+X836->X6789 [penwidth=1, color=black, arrowhead="vee"]
+X3316->X836 [penwidth=1, color=black, arrowhead="tee"]
+X836->X5062 [penwidth=1, color=black, arrowhead="vee"]
+X4193->X4855 [penwidth=1, color=black, arrowhead="tee"]
+X6774->X6688 [penwidth=1, color=black, arrowhead="vee"]
+X3725->X6688 [penwidth=1, color=black, arrowhead="vee"]
+X1017->X1032 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X1017 [penwidth=1, color=black, arrowhead="vee"]
+X1017->X2305 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X4790 [penwidth=1, color=black, arrowhead="vee"]
+X23411->X328 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X23411 [penwidth=1, color=black, arrowhead="vee"]
+X5501->X1025 [penwidth=1, color=black, arrowhead="vee"]
+X207->X2931 [penwidth=1, color=black, arrowhead="tee"]
+X207->X6789 [penwidth=1, color=black, arrowhead="tee"]
+X6789->X9113 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X6789 [penwidth=1, color=black, arrowhead="vee"]
+X328->X8061 [penwidth=1, color=black, arrowhead="vee"]
+X3716->X6772 [penwidth=1, color=black, arrowhead="vee"]
+X6773->X6772 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X6772 [penwidth=1, color=black, arrowhead="vee"]
+X8554->X6772 [penwidth=1, color=black, arrowhead="tee"]
+X6774->X6772 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X6772 [penwidth=1, color=black, arrowhead="vee"]
+X6772->X3660 [penwidth=1, color=black, arrowhead="vee"]
+X5595->X4261 [penwidth=1, color=black, arrowhead="tee"]
+X3716->X6773 [penwidth=1, color=black, arrowhead="vee"]
+X3716->X6774 [penwidth=1, color=black, arrowhead="vee"]
+X3716->X6777 [penwidth=1, color=black, arrowhead="vee"]
+X5788->X3716 [penwidth=1, color=black, arrowhead="vee"]
+X5058->X1487 [penwidth=1, color=black, arrowhead="tee"]
+X1487->X9839 [penwidth=1, color=black, arrowhead="vee"]
+X1457->X3065 [penwidth=1, color=black, arrowhead="vee"]
+X328->X6774 [penwidth=1, color=black, arrowhead="vee"]
+X3316->X5599 [penwidth=1, color=black, arrowhead="tee"]
+X5934->X1874 [penwidth=1, color=black, arrowhead="vee"]
+X4855->X3516 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X6667 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X6667 [penwidth=1, color=black, arrowhead="vee"]
+X1019->X864 [penwidth=1, color=black, arrowhead="tee"]
+X1019->X5934 [penwidth=1, color=black, arrowhead="tee"]
+X5594->X6670 [penwidth=1, color=black, arrowhead="vee"]
+X6446->X5594 [penwidth=1, color=black, arrowhead="tee"]
+X5594->X1457 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X3091 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X6774 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X8550 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X3725 [penwidth=1, color=black, arrowhead="vee"]
+X5594->X4261 [penwidth=1, color=black, arrowhead="vee"]
+X1457->X5788 [penwidth=1, color=black, arrowhead="vee"]
+X5062->X3725 [penwidth=1, color=black, arrowhead="vee"]
+X5599->X6774 [penwidth=1, color=black, arrowhead="vee"]
+X815->X2114 [penwidth=1, color=black, arrowhead="tee"]
+X5599->X3725 [penwidth=1, color=black, arrowhead="vee"]
+X5502->X5501 [penwidth=1, color=black, arrowhead="tee"]
+X5501->X10320 [penwidth=1, color=black, arrowhead="vee"]
+X4261->X5993 [penwidth=1, color=black, arrowhead="vee"]
+XMetab__784___x____->X3164 [penwidth=1, color=red, arrowhead="vee"]
+XMetab__784___x____->X5581 [penwidth=1, color=red, arrowhead="vee"]
+XMetab__784___x____->X5595 [penwidth=1, color=red, arrowhead="vee"]
+XMetab__784___x____->X207 [penwidth=1, color=red, arrowhead="vee"]
+XMetab__784___x____->X1839 [penwidth=1, color=red, arrowhead="vee"]
+XMetab__15993___c____->X2745 [penwidth=1, color=red, arrowhead="tee"]
+XMetab__145068___c____->X1958 [penwidth=1, color=red, arrowhead="tee"]
+XMetab__790___x____->XGene2920__7498 [penwidth=1, color=red, arrowhead="vee"]
+XGene2920__7498->XMetab__784___x____ [penwidth=1, color=red, arrowhead="vee"]
+X5530->X5502 [penwidth=1, color=red, arrowhead="tee"]
+X1020->X5058 [penwidth=1, color=red, arrowhead="tee"]
+X5578->X5592 [penwidth=1, color=red, arrowhead="vee"]
+X25937->X4654 [penwidth=1, color=red, arrowhead="vee"]
+X9113->X25937 [penwidth=1, color=red, arrowhead="tee"]
+X25937->X7003 [penwidth=1, color=red, arrowhead="vee"]
+X5170->X5578 [penwidth=1, color=red, arrowhead="vee"]
+X5578->X5595 [penwidth=1, color=red, arrowhead="vee"]
+X2534->X1499 [penwidth=1, color=red, arrowhead="tee"]
+X1499->X4654 [penwidth=1, color=red, arrowhead="vee"]
+X836->X1499 [penwidth=1, color=red, arrowhead="tee"]
+X207->X1499 [penwidth=1, color=red, arrowhead="vee"]
+X2931->X1499 [penwidth=1, color=red, arrowhead="tee"]
+X1499->X3164 [penwidth=1, color=red, arrowhead="vee"]
+X5058->X1499 [penwidth=1, color=red, arrowhead="vee"]
+X1499->X6925 [penwidth=1, color=red, arrowhead="vee"]
+X5170->X5581 [penwidth=1, color=red, arrowhead="vee"]
+X10413->X83737 [penwidth=1, color=red, arrowhead="tee"]
+X5170->X5580 [penwidth=1, color=red, arrowhead="vee"]
+X5580->X688 [penwidth=1, color=red, arrowhead="vee"]
+X9261->X4193 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X9261 [penwidth=1, color=red, arrowhead="vee"]
+X9261->X3297 [penwidth=1, color=red, arrowhead="vee"]
+X9261->X3316 [penwidth=1, color=red, arrowhead="vee"]
+X9261->X8554 [penwidth=1, color=red, arrowhead="vee"]
+X9261->X6722 [penwidth=1, color=red, arrowhead="vee"]
+X2745->X4800 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X6720 [penwidth=1, color=red, arrowhead="vee"]
+X1017->X4654 [penwidth=1, color=red, arrowhead="tee"]
+X4654->X6597 [penwidth=1, color=red, arrowhead="vee"]
+X3065->X4654 [penwidth=1, color=red, arrowhead="tee"]
+X836->X207 [penwidth=1, color=red, arrowhead="tee"]
+X4193->X8626 [penwidth=1, color=red, arrowhead="vee"]
+X207->X4193 [penwidth=1, color=red, arrowhead="vee"]
+X2066->X4193 [penwidth=1, color=red, arrowhead="vee"]
+X1017->X8626 [penwidth=1, color=red, arrowhead="tee"]
+X1017->X8856 [penwidth=1, color=red, arrowhead="tee"]
+X1017->X5058 [penwidth=1, color=red, arrowhead="tee"]
+X1017->X1045 [penwidth=1, color=red, arrowhead="tee"]
+X2099->X2625 [penwidth=1, color=red, arrowhead="vee"]
+X207->X2099 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X2099 [penwidth=1, color=red, arrowhead="vee"]
+X2066->X2099 [penwidth=1, color=red, arrowhead="vee"]
+X5058->X2099 [penwidth=1, color=red, arrowhead="vee"]
+X1457->X2099 [penwidth=1, color=red, arrowhead="tee"]
+X5170->X207 [penwidth=1, color=red, arrowhead="vee"]
+X5170->X5058 [penwidth=1, color=red, arrowhead="vee"]
+X5170->X6446 [penwidth=1, color=red, arrowhead="vee"]
+X5294->X5170 [penwidth=1, color=red, arrowhead="vee"]
+X3316->X207 [penwidth=1, color=red, arrowhead="vee"]
+X207->X672 [penwidth=1, color=red, arrowhead="vee"]
+X207->X5058 [penwidth=1, color=red, arrowhead="vee"]
+X207->X4899 [penwidth=1, color=red, arrowhead="vee"]
+X5501->X207 [penwidth=1, color=red, arrowhead="tee"]
+X207->X3170 [penwidth=1, color=red, arrowhead="vee"]
+X207->X6733 [penwidth=1, color=red, arrowhead="vee"]
+X207->X5460 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X6721 [penwidth=1, color=red, arrowhead="vee"]
+X2931->X2627 [penwidth=1, color=red, arrowhead="tee"]
+X2745->X3661 [penwidth=1, color=red, arrowhead="vee"]
+X5599->X3164 [penwidth=1, color=red, arrowhead="tee"]
+X3164->X7026 [penwidth=1, color=red, arrowhead="vee"]
+X8856->X3172 [penwidth=1, color=red, arrowhead="vee"]
+X672->X6657 [penwidth=1, color=red, arrowhead="vee"]
+X4149->X4335 [penwidth=1, color=red, arrowhead="vee"]
+X1457->X4149 [penwidth=1, color=red, arrowhead="tee"]
+X4149->X4601 [penwidth=1, color=red, arrowhead="vee"]
+X1032->X1019 [penwidth=1, color=red, arrowhead="tee"]
+X5595->X3297 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X1827 [penwidth=1, color=red, arrowhead="vee"]
+X5595->X4150 [penwidth=1, color=red, arrowhead="vee"]
+X6597->X6935 [penwidth=1, color=red, arrowhead="vee"]
+X5599->X3297 [penwidth=1, color=red, arrowhead="tee"]
+X3065->X7975 [penwidth=1, color=red, arrowhead="tee"]
+X8554->X6662 [penwidth=1, color=red, arrowhead="vee"]
+X5594->X5460 [penwidth=1, color=red, arrowhead="tee"]
+X1839->X2066 [penwidth=1, color=red, arrowhead="vee"]
+X2066->X5294 [penwidth=1, color=red, arrowhead="vee"]
+X5058->X1999 [penwidth=1, color=red, arrowhead="vee"]
+X5501->X815 [penwidth=1, color=red, arrowhead="tee"]
+X7026->X7025 [penwidth=1, color=red, arrowhead="vee"]
+X1840->X429 [penwidth=1, color=red, arrowhead="tee"]
+XMetab__190___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__190___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__9750___m____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__9750___e____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__9750___c____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__588___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__588___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__700___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__700___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__5961___e____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__5961___c____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__5961___m____ [style=filled, color=black, fillcolor=lavender, shape=invhouse];
+XMetab__790___x____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__790___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__790___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6021___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6021___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6426851___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6426851___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__107738___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__107738___x____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__107738___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__107738___m____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__1110___m____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__1110___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__1110___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__1110___x____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6029___e____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6029___c____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6029___n____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+XMetab__6029___l____ [style=filled, color=red, fillcolor=mistyrose, shape=invhouse];
+X5062 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X815 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X1457 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X9261 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X5581 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X5592 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X8550 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X8317 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X5599 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X5170 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X1017 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X2931 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X1020 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X1025 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X9212 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6733 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X5602 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X5530 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6657 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X1874 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X2625 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X1958 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X2099 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3172 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6772 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6688 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6777 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X864 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X3725 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X2305 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X1999 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6925 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6667 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X4335 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4609 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X3661 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6774 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X4149 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3659 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X4790 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X3091 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X8061 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6773 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6670 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X5993 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X7003 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4800 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4899 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X8626 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3170 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6662 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X5460 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X2627 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3660 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X688 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X2313 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X2114 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X7025 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3516 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X6722 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X7975 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4601 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6935 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X10320 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+X429 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6720 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4654 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X3297 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X1045 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X6721 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X4150 [style=filled, color=red, fillcolor=mistyrose, shape=doublecircle];
+X9839 [style=filled, color=black, fillcolor=lavender, shape=doublecircle];
+XMetab__784___x____ [style=filled, fillcolor=mistyrose];
+X4846 [style=filled, fillcolor=lavender];
+X4830 [style=filled, fillcolor=lavender];
+XGene3007__4846 [style=filled, fillcolor=lavender];
+XGene7316__4831_4830 [style=filled, fillcolor=lavender];
+X1827 [style=filled, fillcolor=mistyrose];
+X2534 [style=filled, fillcolor=lavender];
+X5578 [style=filled, fillcolor=mistyrose];
+X5788 [style=filled, fillcolor=lavender];
+X83737 [style=filled, fillcolor=mistyrose];
+X5580 [style=filled, fillcolor=mistyrose];
+X5501 [style=filled, fillcolor=lavender];
+X1111 [style=filled, fillcolor=lavender];
+X207 [style=filled, fillcolor=mistyrose];
+X9113 [style=filled, fillcolor=lavender];
+X5594 [style=filled, fillcolor=lavender];
+X3065 [style=filled, fillcolor=lavender];
+X836 [style=filled, fillcolor=lavender];
+X3316 [style=filled, fillcolor=mistyrose];
+X4193 [style=filled, fillcolor=mistyrose];
+X23411 [style=filled, fillcolor=lavender];
+X6789 [style=filled, fillcolor=lavender];
+X328 [style=filled, fillcolor=lavender];
+X3716 [style=filled, fillcolor=lavender];
+X8554 [style=filled, fillcolor=mistyrose];
+X5595 [style=filled, fillcolor=mistyrose];
+X5058 [style=filled, fillcolor=mistyrose];
+X1487 [style=filled, fillcolor=lavender];
+X5934 [style=filled, fillcolor=lavender];
+X4855 [style=filled, fillcolor=lavender];
+X1019 [style=filled, fillcolor=mistyrose];
+X6446 [style=filled, fillcolor=mistyrose];
+X5502 [style=filled, fillcolor=mistyrose];
+X4261 [style=filled, fillcolor=lavender];
+XMetab__15993___c____ [style=filled, fillcolor=lavender];
+XMetab__145068___c____ [style=filled, fillcolor=lavender];
+XGene2920__7498 [style=filled, fillcolor=mistyrose];
+X25937 [style=filled, fillcolor=mistyrose];
+X1499 [style=filled, fillcolor=mistyrose];
+X10413 [style=filled, fillcolor=lavender];
+X2745 [style=filled, fillcolor=mistyrose];
+X2066 [style=filled, fillcolor=mistyrose];
+X5294 [style=filled, fillcolor=mistyrose];
+X3164 [style=filled, fillcolor=mistyrose];
+X8856 [style=filled, fillcolor=mistyrose];
+X672 [style=filled, fillcolor=mistyrose];
+X1032 [style=filled, fillcolor=lavender];
+X6597 [style=filled, fillcolor=mistyrose];
+X1839 [style=filled, fillcolor=mistyrose];
+X7026 [style=filled, fillcolor=mistyrose];
+X1840 [style=filled, fillcolor=lavender];
+
+
+}

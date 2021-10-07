@@ -1,0 +1,84 @@
+Node1,Sign,Node2,Weight
+NOS1, 1,Gene3007__NOS1,100
+Gene3007__NOS1, 1,L-Citrulline___c____,100
+TP53,-1,SLC38A2,100
+CAMK2A,-1,NOS1,100
+L-Citrulline___c____, 1,Gene3294__SLC7A9,100
+Gene3294__SLC7A9, 1,L-Citrulline___e____,100
+L-Citrulline___c____, 1,Gene4282__SLC25A2,100
+Gene4282__SLC25A2, 1,L-Citrulline___m____,100
+Gene7537__SLC38A2, 1,L-Glutamine___c____,100
+SLC38A2, 1,Gene7537__SLC38A2,100
+L-Glutamine___c____, 1,Gene9303__HMR_5101,100
+Gene9303__HMR_5101, 1,L-Glutamine___m____,100
+Adenosine___c____, 1,TP53,100
+SCP2, 1,Gene4476__SCP2,100
+PLD2, 1,Gene8460__PLD2,100
+P4HA2, 1,Gene9293__P4HA2,100
+KMT5A, 1,Gene9369__KMT5A,100
+Adenosine___c____, 1,Gene224__ADA,100
+Gene224__ADA, 1,Inosine___c____,100
+Propanoyl Coenzyme A___x____, 1,Gene611__CRAT,100
+Gene611__CRAT, 1,O-Propanoylcarnitine___x____,100
+Gene2479__UPP1, 1,Uridine___c____,100
+Alpha-D-Ribose 1-Phosphate___c____, 1,Gene2479__UPP1,100
+Gene4476__SCP2, 1,Propanoyl Coenzyme A___x____,100
+Isovaleryl Coenzyme A___c____, 1,Gene4944__CPT1B,100
+Gene4944__CPT1B, 1,Isovaleryl Carnitine___c____,100
+Adenosine___c____, 1,Gene7344__PNP,100
+Gene7344__PNP, 1,Adenine___c____,100
+Gene7344__PNP, 1,Alpha-D-Ribose 1-Phosphate___c____,100
+Inosine___c____, 1,Gene7348__PNP,100
+Gene7348__PNP, 1,Hypoxanthine___c____,100
+Gene7348__PNP, 1,Alpha-D-Ribose 1-Phosphate___c____,100
+S-Adenosyl-L-Homocysteine___c____, 1,Gene7544__AHCYL1,100
+Gene7544__AHCYL1, 1,Adenosine___c____,100
+Gene8460__PLD2, 1,Ethanolamine___c____,100
+Gene9293__P4HA2, 1,Succinate___c____,100
+Gene9369__KMT5A, 1,S-Adenosyl-L-Homocysteine___c____,100
+CTNNB1, 1,FOXO3,100
+GSK3A,-1,CTNNB1,100
+RARA, 1,CTNNB1,100
+PAK4, 1,CTNNB1,100
+PDPK1, 1,PRKCD,100
+PRKCD, 1,TP53,100
+PRKCD, 1,DBI,100
+PRKCD, 1,PLD2,100
+AURKB,-1,TP53,100
+EGR1, 1,TP53,100
+FOXO3, 1,SCP2,100
+KMT5A, 1,TP53,100
+CDK1,-1,KMT5A,100
+TP53, 1,P4HA2,100
+Gene227__SLC29A2, 1,Adenine___e____,100
+Adenine___c____, 1,Gene227__SLC29A2,100
+O-Propanoylcarnitine___x____, 1,Gene589__CRNCAR3tp,100
+Gene589__CRNCAR3tp, 1,O-Propanoylcarnitine___c____,100
+Hypoxanthine___c____, 1,Gene1849__HXANtx,100
+Gene1849__HXANtx, 1,Hypoxanthine___x____,100
+Gene1871__SLC29A1, 1,Inosine___e____,100
+Inosine___c____, 1,Gene1871__SLC29A1,100
+Succinate___c____, 1,Gene2723__SLC25A10,100
+Gene2723__SLC25A10, 1,Succinate___m____,100
+Gene2724__SLC13A2, 1,Succinate___e____,100
+Succinate___c____, 1,Gene2724__SLC13A2,100
+Succinate___c____, 1,Gene2725__SUCCtp,100
+Gene2725__SUCCtp, 1,Succinate___x____,100
+Gene2897__SLC29A2, 1,Uridine___e____,100
+Uridine___c____, 1,Gene2897__SLC29A2,100
+Gene2899__SLC29A3, 1,Uridine___l____,100
+Uridine___c____, 1,Gene2899__SLC29A3,100
+Uridine___c____, 1,Gene2900__Uritn,100
+Gene2900__Uritn, 1,Uridine___n____,100
+O-Propanoylcarnitine___c____, 1,Gene4295__SLC25A20,100
+Gene4295__SLC25A20, 1,O-Propanoylcarnitine___m____,100
+Gene5196__DBI, 1,Isovaleryl Coenzyme A___c____,100
+DBI, 1,Gene5196__DBI,100
+Isovaleryl Carnitine___c____, 1,Gene5197__IVCRNe,100
+Gene5197__IVCRNe, 1,Isovaleryl Carnitine___e____,100
+O-Propanoylcarnitine___c____, 1,Gene5608__SLC22A5,100
+Gene5608__SLC22A5, 1,O-Propanoylcarnitine___e____,100
+Gene7023__ETHAt, 1,Ethanolamine___e____,100
+Ethanolamine___c____, 1,Gene7023__ETHAt,100
+Gene7474__SLC29A2, 1,Hypoxanthine___e____,100
+Hypoxanthine___c____, 1,Gene7474__SLC29A2,100
